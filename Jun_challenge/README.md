@@ -7,7 +7,7 @@ The third part of algorithm specialization course (coursera lecture) begins on A
 ★★ : For problems that give me food-for-thoughts or were beyond my level at the very moment that I referrenced leetcode solutions.<br>
 ★★★ : For problems that I was not able to solve by myself at the time<br><br>
 
-※ Most problems have no star, thus are not included in the table below.
+※ Most problems have no star, thus are not included in the table below.<br><br>
   
 <★>
   
