@@ -1,4 +1,4 @@
-## Info.
+## Notice
 
 The third part of algorithm specialization course (coursera lecture) begins on August 2nd. Therfore I'm planning to solve as many problems as possible before 8/2/22 and 2 or 3 problems in every two days after the course begins.
 
@@ -7,6 +7,8 @@ The third part of algorithm specialization course (coursera lecture) begins on A
 ★★ : For problems that give me food-for-thoughts or were beyond my level at the very moment that I referrenced leetcode solutions.<br>
 ★★★ : For problems that I was not able to solve by myself at the time<br><br>
 
+※ Most problems have no star, thus are not included in the table below.
+  
 <★>
   
 | No.  | Title | Difficulty |
