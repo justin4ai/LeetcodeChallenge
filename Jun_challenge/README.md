@@ -7,7 +7,7 @@ The third part of algorithm specialization course (coursera lecture) begins on A
 ★★ : For problems that give me food-for-thoughts or were beyond my level at the very moment that I referrenced leetcode solutions.<br>
 ★★★ : For problems that I was not able to solve by myself at the time<br><br>
 
-※ Most problems have no star, thus are not included in the table below.<br><br>
+
   
 <★>
   
@@ -30,3 +30,13 @@ The third part of algorithm specialization course (coursera lecture) begins on A
 | No.  | Title | Difficulty |
 | ------------- | ------------- | ------------- |
 | 746.  | [Min Cost Climbing Stairs](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_20%2621.ipynb)  | Easy  |
+
+<ETC.>
+  
+| No.  | Title | Difficulty |
+| ------------- | ------------- | ------------- |
+| 26.  | [Remove Duplicates from Sorted Array](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_18%2619.ipynb)  | Easy  |
+| 141.  | [Linked List Cycle](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_18%2619.ipynb)  | Easy  |
+| 205.  | [Isomorphic Strings](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_18%2619.ipynb)  | Easy  |
+| 724.  | [Find Pivot Index](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_18%2619.ipynb)  | Easy  |
+| 1480.  | [Running Sum of 1d Array](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_18%2619.ipynb)  | Easy  |
