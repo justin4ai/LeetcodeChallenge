@@ -35,6 +35,7 @@ The third part of algorithm specialization course (coursera lecture) begins on A
   
 | No.  | Title | Difficulty |
 | ------------- | ------------- | ------------- |
+| -  | -| Easy  |
 | 26.  | [Remove Duplicates from Sorted Array](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_18%2619.ipynb)  | Easy  |
 | 141.  | [Linked List Cycle](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_18%2619.ipynb)  | Easy  |
 | 205.  | [Isomorphic Strings](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_18%2619.ipynb)  | Easy  |
