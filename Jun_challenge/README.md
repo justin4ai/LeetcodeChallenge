@@ -13,6 +13,8 @@ The third part of algorithm specialization course (coursera lecture) begins on A
   
 | No.  | Title | Difficulty |
 | ------------- | ------------- | ------------- |
+| -  | -| Easy  |
+| -  | -| Medium  |
 | 62. | [Unique Paths](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_18%2619.ipynb)  | Medium  |
 
 
@@ -20,6 +22,8 @@ The third part of algorithm specialization course (coursera lecture) begins on A
   
 | No.  | Title | Difficulty |
 | ------------- | ------------- | ------------- |
+| -  | -| Easy  |
+| -  | -| Medium  |
 | 394.  | [Decode String](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_18%2619.ipynb)  | Medium  |
 | 438.  | [Find All Anagrams in a String](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_20%2621.ipynb)  | Medium  |
 
@@ -29,9 +33,13 @@ The third part of algorithm specialization course (coursera lecture) begins on A
   
 | No.  | Title | Difficulty |
 | ------------- | ------------- | ------------- |
+| -  | -| Easy  |
 | 746.  | [Min Cost Climbing Stairs](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_20%2621.ipynb)  | Easy  |
+| -  | -| Medium  |
 
-<ETC.>
+<br><br>  
+  
+&lt; **ETC** &gt;.
   
 | No.  | Title | Difficulty |
 | ------------- | ------------- | ------------- |
@@ -43,6 +51,7 @@ The third part of algorithm specialization course (coursera lecture) begins on A
 | 724.  | [Find Pivot Index](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_18%2619.ipynb)  | Easy  |
 | 844.  | [Backspace String Compare](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_20%2621.ipynb)  | Easy  |
 | 1480.  | [Running Sum of 1d Array](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_18%2619.ipynb)  | Easy  |
+| -  | -| Medium  |
 | 2.  | [Add Two Numbers](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_20%2621.ipynb)  | Medium  |
 | 7.  | [Reverse Integer](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_20%2621.ipynb)  | Medium  |
 | 299.  | [Bulls and Cows](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_20%2621.ipynb)  | Medium  |
