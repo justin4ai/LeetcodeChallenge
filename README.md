@@ -1,6 +1,12 @@
 # LeetcodeChallenge
 Solutions for Leetcode problems
 
+<p>
+
+<img src = "https://static.leetcode-cn.com/cn-legacy-assets/images/LeetCode_Sharing.png"/>
+
+</p>
+
 ※ I'm on the 'solving 2 problems a day' challenge with Minseong Kang until I'm discharged.
 
 
