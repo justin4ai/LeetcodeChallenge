@@ -16,3 +16,5 @@ Solutions for Leetcode problems!
 | Junyeong Ahn  |  [Jun_challenge](https://github.com/AhnJunYeong0319/LeetcodeChallenge/tree/main/Jun_challenge)  |
 | Minseong kang  |  [KMS_challenge](https://github.com/AhnJunYeong0319/LeetcodeChallenge/tree/main/KMS_challenge)  |
 
+<br><br>
+The first bet : Junyeong Ahn &lt;won&gt;
