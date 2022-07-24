@@ -62,4 +62,4 @@ The third part of algorithm specialization course (coursera lecture) begins on A
 | 299.  | [Bulls and Cows](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_20%2621.ipynb)  | Medium  |
 
 <br><br><br><br>
-Unsolved problems : 198. House Robber (M, DP) / 1277. Count Square Submatrices with All Ones (M, DP)
+Unsolved problems : 198. House Robber (M, DP) / 1277. Count Square Submatrices with All Ones (M, DP) / 240. Search a 2D Matrix II (M, binary search)
