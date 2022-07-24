@@ -17,4 +17,4 @@ Solutions for Leetcode problems!
 | Minseong kang  |  [KMS_challenge](https://github.com/AhnJunYeong0319/LeetcodeChallenge/tree/main/KMS_challenge)  |
 
 <br><br>
-The first bet : Junyeong Ahn &lt;won&gt;
+The first bet : Junyeong Ahn won 🏆 
