@@ -73,3 +73,5 @@ The third part of algorithm specialization course (coursera lecture) begins on A
 
 <br><br><br><br>
 Unsolved problems : 198. House Robber (M, DP) / 1277. Count Square Submatrices with All Ones (M, DP) / 240. Search a 2D Matrix II (M, binary search)
+
+※※ Validate Linked List (M), Recover ~ (H)
