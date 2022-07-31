@@ -23,3 +23,7 @@ This is the list of problems solved during the challenge
 **167. Two Sum II - Input Array Is Sorted (M)**  
 ## July 28&29
 **41. First Missing Positive (H)**  
+## July 30&21
+**617. Merge Two Binary Trees (E)**
+**746. Min Cost Climbing Stairs (E)**
+**567. Permutation in String (M)**
