@@ -28,6 +28,6 @@ This is the list of problems solved during the challenge
 **746. Min Cost Climbing Stairs (E)**  
 **567. Permutation in String (M)**  
 ## August 1&2
-**392. Is Subsequence (E)**
-**605. Can Place Flowers (E)**
+**392. Is Subsequence (E)**  
+**605. Can Place Flowers (E)**  
 **116. Populating Next Right Pointers in Each Node (M)**
