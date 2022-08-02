@@ -81,6 +81,6 @@ The third part of algorithm specialization course (coursera lecture) begins on A
 | 890.  | [Find and Replace Pattern](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_30%2631.ipynb)  | Medium  |
 
 <br><br><br><br>
-Unsolved problems : 198. House Robber (M, DP) / 1277. Count Square Submatrices with All Ones (M, DP) / 240. Search a 2D Matrix II (M, binary search)
+Unsolved problems : 198. House Robber (M, DP) / 1277. Count Square Submatrices with All Ones (M, DP) / 240. Search a 2D Matrix II (M, binary search) / (M) 424. Longest Repeating Character Replacement / ### (M) 307. Range Sum Query - Mutable
 
 ※※ Validate Linked List (M), Recover ~ (H)
