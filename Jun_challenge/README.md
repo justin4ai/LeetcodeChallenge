@@ -64,6 +64,7 @@ The third part of algorithm specialization course (coursera lecture) begins on A
 | 205.  | [Isomorphic Strings](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_18%2619.ipynb)  | Easy  |
 | 235.  | [Lowest Common Ancestor of a Binary Search Tree](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_24%2625.ipynb)  | Easy  |
 | 257.  | [Binary Tree Paths](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_24%2625.ipynb)  | Easy  |
+| 404.  | [Sum of Left Leaves](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_01%2602.ipynb)  | Easy  |
 | 409.  | [Longest Palindrome](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_20%2621.ipynb)  | Easy  |
 | 589.  | [N-ary Tree Preorder Traversal](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_24%2625.ipynb)  | Easy  |
 | 704.  | [Binary Search](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_24%2625.ipynb)  | Easy  |
@@ -76,6 +77,7 @@ The third part of algorithm specialization course (coursera lecture) begins on A
 | 2.  | [Add Two Numbers](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_20%2621.ipynb)  | Medium  |
 | 7.  | [Reverse Integer](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_20%2621.ipynb)  | Medium  |
 | 54.  | [Spiral Matrix](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_28%2629.ipynb)  | Medium  |
+| 78.  | [Subsets](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_01%2602.ipynb)  | Medium  |
 | 103.  | [Binary Tree Zigzag Level Order Traversal](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_24%2625.ipynb)  | Medium  |
 | 299.  | [Bulls and Cows](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_20%2621.ipynb)  | Medium  |
 | 890.  | [Find and Replace Pattern](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_30%2631.ipynb)  | Medium  |
