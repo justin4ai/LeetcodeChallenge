@@ -24,6 +24,7 @@ The third part of algorithm specialization course (coursera lecture) begins on A
 | 92. | [Reverse Linked List II](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_22%2623.ipynb)  | Medium  |
 | 102. | [Binary Tree Level Order Traversal](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_24%2625.ipynb)  | Medium  |
 | 148. | [Sort List](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_01%2602.ipynb)  | Medium  |
+| 729. | [My Calendar I](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_03%2604.ipynb)  | Medium  |
 | 1641. | [Count Sorted Vowel Strings](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_22%2623.ipynb)  | Medium  |
 | -  | -| Hard  |
 | 1028. | [Recover a Tree From Preorder Traversal](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_30%2631.ipynb)  | Hard  |
@@ -35,6 +36,7 @@ The third part of algorithm specialization course (coursera lecture) begins on A
 | -  | -| Easy  |
 | -  | -| Medium  |
 | 59.  | [Spiral Matrix II](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_22%2623.ipynb)  | Medium  |
+| 378.  | [Kth Smallest Element in a Sorted Matrix](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_03%2604.ipynb)  | Medium  |
 | 394.  | [Decode String](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_18%2619.ipynb)  | Medium  |
 | 438.  | [Find All Anagrams in a String](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_20%2621.ipynb)  | Medium  |
 | 916.  | [Word Subsets](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_30%2631.ipynb)  | Medium  |
@@ -64,6 +66,7 @@ The third part of algorithm specialization course (coursera lecture) begins on A
 | 171.  | [Excel Sheet Column Number](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_28%2629.ipynb)  | Easy  |
 | 205.  | [Isomorphic Strings](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_18%2619.ipynb)  | Easy  |
 | 235.  | [Lowest Common Ancestor of a Binary Search Tree](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_24%2625.ipynb)  | Easy  |
+| 242.  | [Valid Anagram](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_03%2604.ipynb)  | Easy  |
 | 257.  | [Binary Tree Paths](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_24%2625.ipynb)  | Easy  |
 | 404.  | [Sum of Left Leaves](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_01%2602.ipynb)  | Easy  |
 | 409.  | [Longest Palindrome](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_20%2621.ipynb)  | Easy  |
