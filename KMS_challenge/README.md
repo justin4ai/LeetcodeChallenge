@@ -31,3 +31,7 @@ This is the list of problems solved during the challenge
 **392. Is Subsequence (E)**  
 **605. Can Place Flowers (E)**  
 **116. Populating Next Right Pointers in Each Node (M)**
+## August 3&4
+**404. Sum of Left Leaves (E)**  
+**1539. Kth Missing Positive Number (E)**  
+**542. 01 Matrix (M)**  
