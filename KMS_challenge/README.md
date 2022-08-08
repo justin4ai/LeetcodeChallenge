@@ -35,3 +35,11 @@ This is the list of problems solved during the challenge
 **404. Sum of Left Leaves (E)**  
 **1539. Kth Missing Positive Number (E)**  
 **542. 01 Matrix (M)**  
+## August 5&6
+**1287. Element Appearing More Than 25% In Sorted Array (E)**  
+**392. Is Subsequence (E)**  
+**718. Maximum Length of Repeated Subarray (M)**  
+## August 7&8
+**58. Length of Last Word (E)**
+**268. Missing Number (E)**
+**62. Unique Paths (M)**
