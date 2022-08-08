@@ -44,4 +44,3 @@ This is the list of problems solved during the challenge
 **268. Missing Number (E)**  
 **62. Unique Paths (M)**  
 
-## July 28&29
