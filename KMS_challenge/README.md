@@ -40,6 +40,8 @@ This is the list of problems solved during the challenge
 **392. Is Subsequence (E)**  
 **718. Maximum Length of Repeated Subarray (M)**  
 ## August 7&8
-**58. Length of Last Word (E)**
-**268. Missing Number (E)**
-**62. Unique Paths (M)**
+**58. Length of Last Word (E)**  
+**268. Missing Number (E)**  
+**62. Unique Paths (M)**  
+
+## July 28&29
