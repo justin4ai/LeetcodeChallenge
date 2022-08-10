@@ -43,4 +43,7 @@ This is the list of problems solved during the challenge
 **58. Length of Last Word (E)**  
 **268. Missing Number (E)**  
 **62. Unique Paths (M)**  
-
+## August 9&10
+**67. Add Binary (E)**  
+**169. Majority Element (E)**  
+**994. Rotting Oranges (M)**  
