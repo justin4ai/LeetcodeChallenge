@@ -11,16 +11,16 @@ The third part of algorithm specialization course (coursera lecture) begins on A
   
 <★>
   
-| No.  | Title | Difficulty |
-| ------------- | ------------- | ------------- |
-| -  | -| Easy  |
-| 136. | [Single Number](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_30%2631.ipynb)  | Easy  |
-| 160. | [Intersection of Two Linked Lists](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_07%2608.ipynb)  | Easy  |
-| 168. | [Excel Sheet Column Title](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_28%2629.ipynb)  | Easy  |
+| No.  | Title | Difficulty |Remarks |
+| ------------- | ------------- | ------------- |------------- |
+| -  | -| Easy  |-  |
+| 136. | [Single Number](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_30%2631.ipynb)  | Easy  |Reduce  |
+| 160. | [Intersection of Two Linked Lists](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_07%2608.ipynb)  | Easy  |memory efficiency  |
+| 168. | [Excel Sheet Column Title](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_28%2629.ipynb)  | Easy  |  |
 | -  | -| Medium  |
-| 24. | [Swap Nodes in Paris](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_26%2627.ipynb)  | Medium  |
-| 39. | [Combination Sum](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_09%2610.ipynb)  | Medium  |
-| 61. | [Rotate List](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_28%2629.ipynb)  |
+| 24. | [Swap Nodes in Paris](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_26%2627.ipynb)  | Medium  |  |
+| 39. | [Combination Sum](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_09%2610.ipynb)  | Medium  |Backtracking  |
+| 61. | [Rotate List](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_28%2629.ipynb)  |Medium  |  |
 | 62. | [Unique Paths](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_18%2619.ipynb)  | Medium  |
 | 73. | [Set Matrix Zeroes](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_30%2631.ipynb)  | Medium  |
 | 92. | [Reverse Linked List II](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_22%2623.ipynb)  | Medium  |
