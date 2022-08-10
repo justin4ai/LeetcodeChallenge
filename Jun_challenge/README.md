@@ -33,8 +33,8 @@ The third part of algorithm specialization course (coursera lecture) begins on A
 
 <★★>
   
-| No.  | Title | Difficulty |
-| ------------- | ------------- | ------------- |
+| No.  | Title | Difficulty |Remarks |
+| ------------- | ------------- | ------------- | ------------- |
 | -  | -| Easy  |
 | -  | -| Medium  |
 | 59.  | [Spiral Matrix II](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_22%2623.ipynb)  | Medium  |  |
@@ -48,8 +48,8 @@ The third part of algorithm specialization course (coursera lecture) begins on A
 
 <★★★>
   
-| No.  | Title | Difficulty |
-| ------------- | ------------- | ------------- |
+| No.  | Title | Difficulty |Remarks |
+| ------------- | ------------- | ------------- |------------- |
 | -  | -| Easy  |
 | 746.  | [Min Cost Climbing Stairs](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_20%2621.ipynb)  | Easy  |DP  |
 | -  | -| Medium  |
