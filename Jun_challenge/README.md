@@ -21,15 +21,15 @@ The third part of algorithm specialization course (coursera lecture) begins on A
 | 24. | [Swap Nodes in Paris](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_26%2627.ipynb)  | Medium  |  |
 | 39. | [Combination Sum](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_09%2610.ipynb)  | Medium  |Backtracking  |
 | 61. | [Rotate List](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_28%2629.ipynb)  |Medium  |  |
-| 62. | [Unique Paths](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_18%2619.ipynb)  | Medium  |
-| 73. | [Set Matrix Zeroes](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_30%2631.ipynb)  | Medium  |
-| 92. | [Reverse Linked List II](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_22%2623.ipynb)  | Medium  |
-| 102. | [Binary Tree Level Order Traversal](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_24%2625.ipynb)  | Medium  |
-| 148. | [Sort List](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_01%2602.ipynb)  | Medium  |
-| 729. | [My Calendar I](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_03%2604.ipynb)  | Medium  |
-| 1641. | [Count Sorted Vowel Strings](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_22%2623.ipynb)  | Medium  |
+| 62. | [Unique Paths](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_18%2619.ipynb)  | Medium  | DP |
+| 73. | [Set Matrix Zeroes](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_30%2631.ipynb)  | Medium  | Memory efficiency |
+| 92. | [Reverse Linked List II](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_22%2623.ipynb)  | Medium  | Struggled a lot |
+| 102. | [Binary Tree Level Order Traversal](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_24%2625.ipynb)  | Medium  | BFS  |
+| 148. | [Sort List](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_01%2602.ipynb)  | Medium  |Memory efficiency  |
+| 729. | [My Calendar I](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_03%2604.ipynb)  | Medium  |  |
+| 1641. | [Count Sorted Vowel Strings](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_22%2623.ipynb)  | Medium  | DP  |
 | -  | -| Hard  |
-| 1028. | [Recover a Tree From Preorder Traversal](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_30%2631.ipynb)  | Hard  |
+| 1028. | [Recover a Tree From Preorder Traversal](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_30%2631.ipynb)  | Hard  |My first hard problem |
 
 <★★>
   
@@ -37,12 +37,12 @@ The third part of algorithm specialization course (coursera lecture) begins on A
 | ------------- | ------------- | ------------- |
 | -  | -| Easy  |
 | -  | -| Medium  |
-| 59.  | [Spiral Matrix II](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_22%2623.ipynb)  | Medium  |
-| 79.  | [Word Search](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_07%2608.ipynb)  | Medium  |
-| 378.  | [Kth Smallest Element in a Sorted Matrix](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_03%2604.ipynb)  | Medium  |
-| 394.  | [Decode String](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_18%2619.ipynb)  | Medium  |
-| 438.  | [Find All Anagrams in a String](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_20%2621.ipynb)  | Medium  |
-| 916.  | [Word Subsets](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_30%2631.ipynb)  | Medium  |
+| 59.  | [Spiral Matrix II](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_22%2623.ipynb)  | Medium  |  |
+| 79.  | [Word Search](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_07%2608.ipynb)  | Medium  |Backtracking  |
+| 378.  | [Kth Smallest Element in a Sorted Matrix](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_03%2604.ipynb)  | Medium  |Kth smallest  |
+| 394.  | [Decode String](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_18%2619.ipynb)  | Medium  |  |
+| 438.  | [Find All Anagrams in a String](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_20%2621.ipynb)  | Medium  | Anagram  |
+| 916.  | [Word Subsets](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_30%2631.ipynb)  | Medium  |  |
 
 
 
@@ -51,9 +51,9 @@ The third part of algorithm specialization course (coursera lecture) begins on A
 | No.  | Title | Difficulty |
 | ------------- | ------------- | ------------- |
 | -  | -| Easy  |
-| 746.  | [Min Cost Climbing Stairs](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_20%2621.ipynb)  | Easy  |
+| 746.  | [Min Cost Climbing Stairs](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_20%2621.ipynb)  | Easy  |DP  |
 | -  | -| Medium  |
-| 377.  | [Combination Sum IV](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_05%2606.ipynb)  | Medium  |
+| 377.  | [Combination Sum IV](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_05%2606.ipynb)  | Medium  |DP  |
 
 <br><br>  
   
