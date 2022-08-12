@@ -24,6 +24,7 @@ The third part of algorithm specialization course (coursera lecture) begins on A
 | 62. | [Unique Paths](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_18%2619.ipynb)  | Medium  | DP |
 | 73. | [Set Matrix Zeroes](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_30%2631.ipynb)  | Medium  | Memory efficiency |
 | 92. | [Reverse Linked List II](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_22%2623.ipynb)  | Medium  | Struggled a lot |
+| 98. | [Validate Binary Search Tree](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_11%2612.ipynb)  | Medium  | BST |
 | 102. | [Binary Tree Level Order Traversal](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_24%2625.ipynb)  | Medium  | BFS  |
 | 148. | [Sort List](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_01%2602.ipynb)  | Medium  |Memory efficiency  |
 | 729. | [My Calendar I](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_03%2604.ipynb)  | Medium  |  |
@@ -63,7 +64,9 @@ The third part of algorithm specialization course (coursera lecture) begins on A
 | ------------- | ------------- | ------------- |
 | -  | -| Easy  |
 | 26.  | [Remove Duplicates from Sorted Array](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_18%2619.ipynb)  | Easy  |
+| 67.  | [Add Binary](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_11%2612.ipynb)  | Easy  |
 | 104.  | [Maximum Depth of Binary Tree](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_26%2627.ipynb)  | Easy  |
+| 108.  | [Convert Sorted Array to Binary Search Tree](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_11%2612.ipynb)  | Easy  |
 | 111.  | [Minimum Depth of Binary Tree](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_26%2627.ipynb)  | Easy  |
 | 121.  | [Best Time to Buy and Sell Stock](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_22%2623.ipynb)  | Easy  |
 | 141.  | [Linked List Cycle](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_18%2619.ipynb)  | Easy  |
