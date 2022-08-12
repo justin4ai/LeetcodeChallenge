@@ -47,3 +47,7 @@ This is the list of problems solved during the challenge
 **67. Add Binary (E)**  
 **169. Majority Element (E)**  
 **994. Rotting Oranges (M)**  
+## August 11&12
+**206. Reverse Linked List (E)**  
+**83. Remove Duplicates from Sorted List (E)**  
+**46. Permutations (M)**  
