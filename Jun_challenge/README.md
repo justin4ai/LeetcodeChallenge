@@ -65,6 +65,7 @@ The third part of algorithm specialization course (coursera lecture) begins on A
 | -  | -| Easy  |
 | 26.  | [Remove Duplicates from Sorted Array](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_18%2619.ipynb)  | Easy  |
 | 67.  | [Add Binary](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_11%2612.ipynb)  | Easy  |
+| 100.  | [Same Tree](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_13%2614.ipynb)  | Easy  |
 | 104.  | [Maximum Depth of Binary Tree](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_26%2627.ipynb)  | Easy  |
 | 108.  | [Convert Sorted Array to Binary Search Tree](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_11%2612.ipynb)  | Easy  |
 | 111.  | [Minimum Depth of Binary Tree](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_26%2627.ipynb)  | Easy  |
@@ -77,6 +78,7 @@ The third part of algorithm specialization course (coursera lecture) begins on A
 | 235.  | [Lowest Common Ancestor of a Binary Search Tree](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_24%2625.ipynb)  | Easy  |
 | 242.  | [Valid Anagram](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_03%2604.ipynb)  | Easy  |
 | 257.  | [Binary Tree Paths](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_24%2625.ipynb)  | Easy  |
+| 268.  | [Missing Number](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_13%2614.ipynb)  | Easy  |
 | 367.  | [Valid Perfect Square](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_09%2610.ipynb)  | Easy  |
 | 404.  | [Sum of Left Leaves](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_01%2602.ipynb)  | Easy  |
 | 409.  | [Longest Palindrome](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_20%2621.ipynb)  | Easy  |
@@ -92,6 +94,7 @@ The third part of algorithm specialization course (coursera lecture) begins on A
 | -  | -| Medium  |
 | 2.  | [Add Two Numbers](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_20%2621.ipynb)  | Medium  |
 | 7.  | [Reverse Integer](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_20%2621.ipynb)  | Medium  |
+| 46.  | [Permutations](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_13%2614.ipynb)  | Medium  |
 | 54.  | [Spiral Matrix](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_28%2629.ipynb)  | Medium  |
 | 78.  | [Subsets](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_01%2602.ipynb)  | Medium  |
 | 103.  | [Binary Tree Zigzag Level Order Traversal](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_24%2625.ipynb)  | Medium  |
