@@ -51,3 +51,7 @@ This is the list of problems solved during the challenge
 **206. Reverse Linked List (E)**  
 **83. Remove Duplicates from Sorted List (E)**  
 **46. Permutations (M)**  
+## August 13&14
+**70. Climbing Stairs (E)**  
+**121. Best Time to Buy and Sell Stock (E)**  
+**198. House Robber (M)**  
