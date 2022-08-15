@@ -38,6 +38,7 @@ The third part of algorithm specialization course (coursera lecture) begins on A
 | ------------- | ------------- | ------------- | ------------- |
 | -  | -| Easy  |
 | -  | -| Medium  |
+| 11.  | [Container With Most Water](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_15%2616.ipynb)  | Medium  |  |
 | 59.  | [Spiral Matrix II](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_22%2623.ipynb)  | Medium  |  |
 | 79.  | [Word Search](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_07%2608.ipynb)  | Medium  |Backtracking  |
 | 378.  | [Kth Smallest Element in a Sorted Matrix](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_03%2604.ipynb)  | Medium  |Kth smallest  |
@@ -64,7 +65,9 @@ The third part of algorithm specialization course (coursera lecture) begins on A
 | ------------- | ------------- | ------------- |
 | -  | -| Easy  |
 | 26.  | [Remove Duplicates from Sorted Array](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_18%2619.ipynb)  | Easy  |
+| 27.  | [Remove Element](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_15%2616.ipynb)  | Easy  |
 | 67.  | [Add Binary](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_11%2612.ipynb)  | Easy  |
+| 83.  | [Remove Duplicates from Sorted List](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_15%2616.ipynb)  | Easy  |
 | 100.  | [Same Tree](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_13%2614.ipynb)  | Easy  |
 | 104.  | [Maximum Depth of Binary Tree](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_26%2627.ipynb)  | Easy  |
 | 108.  | [Convert Sorted Array to Binary Search Tree](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_11%2612.ipynb)  | Easy  |
