@@ -27,6 +27,7 @@ The third part of algorithm specialization course (coursera lecture) begins on A
 | 98. | [Validate Binary Search Tree](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_11%2612.ipynb)  | Medium  | BST |
 | 102. | [Binary Tree Level Order Traversal](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_24%2625.ipynb)  | Medium  | BFS  |
 | 148. | [Sort List](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_01%2602.ipynb)  | Medium  |Memory efficiency  |
+| 198. | [House Robber](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_17%2618.ipynb)  | Medium  |DP / Independent set  |
 | 729. | [My Calendar I](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_03%2604.ipynb)  | Medium  |  |
 | 1641. | [Count Sorted Vowel Strings](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_22%2623.ipynb)  | Medium  | DP  |
 | -  | -| Hard  |
@@ -77,6 +78,7 @@ The third part of algorithm specialization course (coursera lecture) begins on A
 | 144.  | [Binary Tree Preorder Traversal](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_07%2608.ipynb)  | Easy  |
 | 171.  | [Excel Sheet Column Number](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_28%2629.ipynb)  | Easy  |
 | 202.  | [Happy Number](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_09%2610.ipynb)  | Easy  |
+| 203.  | [Remove Linked List Elements](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_17%2618.ipynb)  | Easy  |
 | 205.  | [Isomorphic Strings](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_18%2619.ipynb)  | Easy  |
 | 235.  | [Lowest Common Ancestor of a Binary Search Tree](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_24%2625.ipynb)  | Easy  |
 | 242.  | [Valid Anagram](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_03%2604.ipynb)  | Easy  |
@@ -97,6 +99,7 @@ The third part of algorithm specialization course (coursera lecture) begins on A
 | -  | -| Medium  |
 | 2.  | [Add Two Numbers](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_20%2621.ipynb)  | Medium  |
 | 7.  | [Reverse Integer](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_20%2621.ipynb)  | Medium  |
+| 22.  | [Generate Parentheses](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_17%2618.ipynb)  | Medium  |
 | 46.  | [Permutations](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_13%2614.ipynb)  | Medium  |
 | 54.  | [Spiral Matrix](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_28%2629.ipynb)  | Medium  |
 | 78.  | [Subsets](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_01%2602.ipynb)  | Medium  |
