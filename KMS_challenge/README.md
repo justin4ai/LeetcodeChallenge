@@ -55,3 +55,10 @@ This is the list of problems solved during the challenge
 **70. Climbing Stairs (E)**  
 **121. Best Time to Buy and Sell Stock (E)**  
 **198. House Robber (M)**  
+## August 15&18
+**88. Merge Sorted Array (E)**  
+**94. Binary Tree Inorder Traversal (E)**  
+**100. Same Tree (E)**  
+**104. Maximum Depth of Binary Tree (E)**  
+**236. Lowest Common Ancestor of a Binary Tree (M)**  
+**416. Partition Equal Subset Sum (M)**  
