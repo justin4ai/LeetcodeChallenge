@@ -62,3 +62,7 @@ This is the list of problems solved during the challenge
 **104. Maximum Depth of Binary Tree (E)**  
 **236. Lowest Common Ancestor of a Binary Tree (M)**  
 **416. Partition Equal Subset Sum (M)**  
+## August 19&20
+**28. Implement strStr (E)**  
+**35. Search Insert Position (E)**  
+**1980. Find Unique Binary String (M)**  
