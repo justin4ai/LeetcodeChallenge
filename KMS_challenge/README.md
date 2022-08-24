@@ -66,3 +66,11 @@ This is the list of problems solved during the challenge
 **28. Implement strStr (E)**  
 **35. Search Insert Position (E)**  
 **1980. Find Unique Binary String (M)**  
+## August 21&22  
+**141. Linked List Cycle (E)**  
+**144. Binary Tree Preorder Traversal (E)**  
+**54. Spiral Matrix (M)**  
+## August 23&24  
+**118. Pascal's Triangle (E)**  
+**119. Pascal's Triangle II (E)**  
+**49. Group Anagrams (M)**  
