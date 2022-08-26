@@ -24,6 +24,7 @@ The third part of algorithm specialization course (coursera lecture) begins on A
 | 61. | [Rotate List](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_28%2629.ipynb)  |Medium  |  |
 | 62. | [Unique Paths](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_18%2619.ipynb)  | Medium  | DP |
 | 73. | [Set Matrix Zeroes](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_30%2631.ipynb)  | Medium  | Memory efficiency |
+| 75. | [Sort Colors](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_25%2626.ipynb)  | Medium  | Dutch partitioning |
 | 92. | [Reverse Linked List II](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_22%2623.ipynb)  | Medium  | Struggled a lot |
 | 98. | [Validate Binary Search Tree](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_11%2612.ipynb)  | Medium  | BST |
 | 102. | [Binary Tree Level Order Traversal](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_24%2625.ipynb)  | Medium  | BFS  |
@@ -39,6 +40,7 @@ The third part of algorithm specialization course (coursera lecture) begins on A
 | No.  | Title | Difficulty |Remarks |
 | ------------- | ------------- | ------------- | ------------- |
 | -  | -| Easy  |
+| 234.  | [Palindrome Linked List](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_25%2626.ipynb)  | Easy  |  |
 | -  | -| Medium  |
 | 11.  | [Container With Most Water](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_15%2616.ipynb)  | Medium  |  |
 | 59.  | [Spiral Matrix II](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_22%2623.ipynb)  | Medium  |  |
@@ -85,6 +87,7 @@ The third part of algorithm specialization course (coursera lecture) begins on A
 | 242.  | [Valid Anagram](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_03%2604.ipynb)  | Easy  |
 | 257.  | [Binary Tree Paths](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_24%2625.ipynb)  | Easy  |
 | 268.  | [Missing Number](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_13%2614.ipynb)  | Easy  |
+| 326.  | [Power of Three](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_25%2626.ipynb)  | Easy  |
 | 367.  | [Valid Perfect Square](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_09%2610.ipynb)  | Easy  |
 | 387.  | [First Unique Character in a String](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_21%2622.ipynb)  | Easy  |
 | 389.  | [Find the Difference](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_23%2624.ipynb)  | Easy  |
