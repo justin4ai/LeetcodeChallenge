@@ -74,3 +74,7 @@ This is the list of problems solved during the challenge
 **118. Pascal's Triangle (E)**  
 **119. Pascal's Triangle II (E)**  
 **49. Group Anagrams (M)**  
+## August 25&26
+**2016. Maximum Difference Between Increasing Elements (E)**  
+**2347. Best Poker Hand (E)**  
+**784. Letter Case Permutation (M)**  
