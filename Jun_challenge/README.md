@@ -48,6 +48,7 @@ The third part of algorithm specialization course (coursera lecture) begins on A
 | 378.  | [Kth Smallest Element in a Sorted Matrix](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_03%2604.ipynb)  | Medium  |Kth smallest  |
 | 394.  | [Decode String](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_18%2619.ipynb)  | Medium  |  |
 | 438.  | [Find All Anagrams in a String](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_20%2621.ipynb)  | Medium  | Anagram  |
+| 869.  | [Reordered Power of 2](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_27%2628.ipynb)  | Medium  | Bit manipulation  |
 | 916.  | [Word Subsets](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_30%2631.ipynb)  | Medium  |  |
 
 
@@ -89,6 +90,7 @@ The third part of algorithm specialization course (coursera lecture) begins on A
 | 268.  | [Missing Number](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_13%2614.ipynb)  | Easy  |
 | 326.  | [Power of Three](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_25%2626.ipynb)  | Easy  |
 | 367.  | [Valid Perfect Square](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_09%2610.ipynb)  | Easy  |
+| 383.  | [Ransom Note](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_27%2628.ipynb)  | Easy  |
 | 387.  | [First Unique Character in a String](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_21%2622.ipynb)  | Easy  |
 | 389.  | [Find the Difference](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_23%2624.ipynb)  | Easy  |
 | 404.  | [Sum of Left Leaves](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_01%2602.ipynb)  | Easy  |
@@ -111,6 +113,7 @@ The third part of algorithm specialization course (coursera lecture) begins on A
 | 46.  | [Permutations](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_13%2614.ipynb)  | Medium  |
 | 47.  | [Permutations II](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_23%2624.ipynb)  | Medium  |
 | 54.  | [Spiral Matrix](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_28%2629.ipynb)  | Medium  |
+| 74.  | [Search a 2D Matrix](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_27%2628.ipynb)  | Medium  |
 | 78.  | [Subsets](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_01%2602.ipynb)  | Medium  |
 | 103.  | [Binary Tree Zigzag Level Order Traversal](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_24%2625.ipynb)  | Medium  |
 | 299.  | [Bulls and Cows](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_20%2621.ipynb)  | Medium  |
