@@ -78,3 +78,6 @@ This is the list of problems solved during the challenge
 **2016. Maximum Difference Between Increasing Elements (E)**  
 **2347. Best Poker Hand (E)**  
 **784. Letter Case Permutation (M)**  
+## August 27&28
+**124. Binary Tree Maximum Path Sum (H)**
+
