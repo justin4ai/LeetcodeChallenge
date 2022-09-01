@@ -17,6 +17,7 @@ The third part of algorithm specialization course (coursera lecture) begins on A
 | 136. | [Single Number](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_30%2631.ipynb)  | Easy  |Reduce  |
 | 160. | [Intersection of Two Linked Lists](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_07%2608.ipynb)  | Easy  |memory efficiency  |
 | 168. | [Excel Sheet Column Title](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_28%2629.ipynb)  | Easy  |  |
+| 572. | [Subtree of Another Tree](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_29%2630.ipynb)  | Easy  | Subtree validation |
 | -  | -| Medium  |
 | 24. | [Swap Nodes in Paris](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_26%2627.ipynb)  | Medium  |  |
 | 39. | [Combination Sum](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_09%2610.ipynb)  | Medium  |Backtracking  |
@@ -50,6 +51,7 @@ The third part of algorithm specialization course (coursera lecture) begins on A
 | 394.  | [Decode String](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_18%2619.ipynb)  | Medium  |  |
 | 417.  | [Pacific Atlantic Water Flow](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)September_31%2601.ipynb)  | Medium  | Efficient DFS |
 | 438.  | [Find All Anagrams in a String](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_20%2621.ipynb)  | Medium  | Anagram  |
+| 662.  | [Maximum Width of Binary Tree](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_29%2630.ipynb)  | Medium  | Efficiency  |
 | 869.  | [Reordered Power of 2](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_27%2628.ipynb)  | Medium  | Bit manipulation  |
 | 916.  | [Word Subsets](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_30%2631.ipynb)  | Medium  |  |
 
@@ -99,6 +101,7 @@ The third part of algorithm specialization course (coursera lecture) begins on A
 | 404.  | [Sum of Left Leaves](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_01%2602.ipynb)  | Easy  |
 | 409.  | [Longest Palindrome](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_20%2621.ipynb)  | Easy  |
 | 589.  | [N-ary Tree Preorder Traversal](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_24%2625.ipynb)  | Easy  |
+| 628.  | [Maximum Product of Three Numbers](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_29%2630.ipynb)  | Easy  |
 | 704.  | [Binary Search](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_24%2625.ipynb)  | Easy  |
 | 724.  | [Find Pivot Index](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_18%2619.ipynb)  | Easy  |
 | 804.  | [Unique Morse Code Words](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_19%2620.ipynb)  | Easy  |
