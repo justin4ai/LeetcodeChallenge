@@ -6,8 +6,8 @@ Solutions for Leetcode problems!
 <img src = "https://static.leetcode-cn.com/cn-legacy-assets/images/LeetCode_Sharing.png"/>
 
 </p>
-
-※ I'm on the 'solving 2 problems a day' challenge with Minseong Kang until I'm discharged.
+</p>
+The challenge that we solve three LeetCode problems in two days was held for 42 days(from **July 18, 2022** to **August 28, 2022**). Still, we keep this challenge alive by steadily uploading problem solutions - although solving three in two days is no more compulsory.
 
 
   
