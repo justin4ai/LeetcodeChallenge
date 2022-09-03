@@ -64,6 +64,7 @@ The third part of algorithm specialization course (coursera lecture) begins on A
 | -  | -| Easy  |
 | 746.  | [Min Cost Climbing Stairs](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_20%2621.ipynb)  | Easy  |DP  |
 | -  | -| Medium  |
+| 139.  | [Word Break](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)September_02%2603.ipynb)  | Medium  |Memoization / DP  |
 | 377.  | [Combination Sum IV](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_05%2606.ipynb)  | Medium  |DP  |
 
 <br><br>  
@@ -102,6 +103,7 @@ The third part of algorithm specialization course (coursera lecture) begins on A
 | 409.  | [Longest Palindrome](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_20%2621.ipynb)  | Easy  |
 | 589.  | [N-ary Tree Preorder Traversal](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_24%2625.ipynb)  | Easy  |
 | 628.  | [Maximum Product of Three Numbers](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_29%2630.ipynb)  | Easy  |
+| 637.  | [Average of Levels in Binary Tree](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)September_02%2603.ipynb)  | Easy  |
 | 704.  | [Binary Search](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_24%2625.ipynb)  | Easy  |
 | 724.  | [Find Pivot Index](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_18%2619.ipynb)  | Easy  |
 | 804.  | [Unique Morse Code Words](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_19%2620.ipynb)  | Easy  |
