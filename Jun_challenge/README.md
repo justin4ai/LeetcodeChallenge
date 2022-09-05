@@ -118,6 +118,7 @@ The third part of algorithm specialization course (coursera lecture) begins on A
 | 7.  | [Reverse Integer](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_20%2621.ipynb)  | Medium  |
 | 17.  | [Letter Combinations of a Phone Number](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_19%2620.ipynb)  | Medium  |
 | 22.  | [Generate Parentheses](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_17%2618.ipynb)  | Medium  |
+| 40.  | [Combination Sum II](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)September_04%2605.ipynb)  | Medium  |
 | 46.  | [Permutations](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_13%2614.ipynb)  | Medium  |
 | 47.  | [Permutations II](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_23%2624.ipynb)  | Medium  |
 | 54.  | [Spiral Matrix](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_28%2629.ipynb)  | Medium  |
@@ -128,10 +129,9 @@ The third part of algorithm specialization course (coursera lecture) begins on A
 | 347.  | [Top K Frequent Elements](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_21%2622.ipynb)  | Medium  |
 | 443.  | [String Comprehension](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_05%2606.ipynb)  | Medium  |
 | 890.  | [Find and Replace Pattern](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_30%2631.ipynb)  | Medium  |
+| 967.  | [Numbers with Same Consecutive Differences](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)September_04%2605.ipynb)  | Medium  |
 | 1338.  | [Reduce Array Size to the Half](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_21%2622.ipynb)  | Medium  |
 | 1448.  | [Count Good Nodes in Binary Tree](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_23%2624.ipynb)  | Medium  |
 
 <br><br><br><br>
-Unsolved problems : 198. House Robber (M, DP) / 1277. Count Square Submatrices with All Ones (M, DP) / 240. Search a 2D Matrix II (M, binary search) / (M) 424. Longest Repeating Character Replacement / ### (M) 307. Range Sum Query - Mutable
-
-※※ Validate Linked List (M), Recover ~ (H)
+Unsolved problems : 1277. Count Square Submatrices with All Ones (M, DP) / 240. Search a 2D Matrix II (M, binary search) / (M) 424. Longest Repeating Character Replacement / ### (M) 307. Range Sum Query - Mutable
