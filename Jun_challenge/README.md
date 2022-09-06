@@ -31,6 +31,7 @@ The third part of algorithm specialization course (coursera lecture) begins on A
 | 102. | [Binary Tree Level Order Traversal](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_24%2625.ipynb)  | Medium  | BFS  |
 | 148. | [Sort List](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_01%2602.ipynb)  | Medium  |Memory efficiency  |
 | 198. | [House Robber](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_17%2618.ipynb)  | Medium  |DP / Independent set  |
+| 429. | [N-ary Tree Level Order Traversal](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)September_06%2607.ipynb)  | Medium  |Efficient BFS  |
 | 729. | [My Calendar I](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_03%2604.ipynb)  | Medium  |  |
 | 1641. | [Count Sorted Vowel Strings](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_22%2623.ipynb)  | Medium  | DP  |
 | -  | -| Hard  |
@@ -128,6 +129,7 @@ The third part of algorithm specialization course (coursera lecture) begins on A
 | 299.  | [Bulls and Cows](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_20%2621.ipynb)  | Medium  |
 | 347.  | [Top K Frequent Elements](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_21%2622.ipynb)  | Medium  |
 | 443.  | [String Comprehension](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_05%2606.ipynb)  | Medium  |
+| 875.  | [Koko Eating Bananas](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)September_06%2607.ipynb)  | Medium  |
 | 890.  | [Find and Replace Pattern](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)July_30%2631.ipynb)  | Medium  |
 | 967.  | [Numbers with Same Consecutive Differences](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)September_04%2605.ipynb)  | Medium  |
 | 1338.  | [Reduce Array Size to the Half](https://github.com/AhnJunYeong0319/LeetcodeChallenge/blob/main/Jun_challenge/(Jun)August_21%2622.ipynb)  | Medium  |
